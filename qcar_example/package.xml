@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+    <name>qcar_example</name>
+    <version>0.0.1</version>
+    <description>The qcar example package</description>
+    <author email="libai@hnu.edu.cn">Bai Li</author>
+    <maintainer email="yakun@hnu.edu.cn">Yakun Ouyang</maintainer>
+    <license>MIT</license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>rospy</depend>
+    <depend>geometry_msgs</depend>
+    <depend>nav_msgs</depend>
+    <depend>sensor_msgs</depend>
+</package>
